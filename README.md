@@ -1,1 +1,0 @@
-# Mediapipe-ChatGPT-LLM-ReAct
